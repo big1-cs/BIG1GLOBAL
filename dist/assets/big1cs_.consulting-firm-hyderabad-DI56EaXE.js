@@ -1,0 +1,1 @@
+import{A as e,u as t}from"./index-BBsFJXQs.js";import{t as n}from"./SeoArticle-BFlpgAEA.js";var r=e(),i=function(){return(0,r.jsx)(n,{page:t})};export{i as component};

@@ -1,0 +1,90 @@
+export const organizationGraph = {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": ["Corporation", "Organization"],
+      "@id": "https://www.big1global.com/#organization",
+      name: "BIG1 Global",
+      legalName: "BIG1 Consultancy Services",
+      alternateName: ["Big1 Global Ecosystem", "BIG1 Conglomerate"],
+      url: "https://www.big1global.com",
+      logo: "https://www.big1global.com/assets/big1-global-logo.png",
+      description:
+        "BIG1 Global is a sovereign corporate consulting conglomerate and enterprise ecosystem operating through two flagship wings: BIG1CS (Big1 Consultancy Services) for Indian startups, MSMEs, and enterprises, and BIG1GC (Big1 Global Consulting) for international corporations, powered by the THALMUX intelligence engine.",
+      foundingLocation: { "@type": "Place", name: "Lucknow, Uttar Pradesh, India" },
+      telephone: "+91 73075 35860",
+      email: "info@big1cs.com",
+      address: {
+        "@type": "PostalAddress",
+        streetAddress: "2nd Floor, J2/30, Sector-J, Sushant Golf City, Amar Shaheed Path",
+        addressLocality: "Lucknow",
+        addressRegion: "Uttar Pradesh",
+        postalCode: "226030",
+        addressCountry: "IN",
+      },
+      sameAs: [
+        "https://www.big1cs.com",
+        "https://www.linkedin.com/company/big1-consultancy-services",
+        "https://www.instagram.com/big1cs",
+        "https://x.com/BIG1CS",
+        "https://www.youtube.com/@big1cs_official",
+      ],
+      subOrganization: [
+        { "@id": "https://www.big1global.com/#big1cs" },
+        { "@id": "https://www.big1global.com/#big1gc" },
+      ],
+    },
+    {
+      "@type": ["ProfessionalService", "LocalBusiness"],
+      "@id": "https://www.big1global.com/#big1cs",
+      name: "BIG1CS (Big1 Consultancy Services)",
+      parentOrganization: { "@id": "https://www.big1global.com/#organization" },
+      url: "https://www.big1cs.com",
+      image: "https://www.big1global.com/assets/big1-global-logo.png",
+      telephone: "+91 73075 35860",
+      priceRange: "$$$",
+      description:
+        "Business consulting firm in India serving startups, MSMEs, and large domestic enterprises with corporate strategy, taxation, regulatory compliance, DuPont financial modeling, iXBRL standardization, and brand transformation.",
+      areaServed: [
+        { "@type": "Country", name: "India" },
+        { "@type": "City", name: "Lucknow" },
+        { "@type": "State", name: "Uttar Pradesh" },
+      ],
+      address: {
+        "@type": "PostalAddress",
+        streetAddress: "2nd Floor, J2/30, Sector-J, Sushant Golf City, Amar Shaheed Path",
+        addressLocality: "Lucknow",
+        addressRegion: "Uttar Pradesh",
+        postalCode: "226030",
+        addressCountry: "IN",
+      },
+      geo: { "@type": "GeoCoordinates", latitude: "26.8467", longitude: "80.9462" },
+      hasOfferCatalog: {
+        "@type": "OfferCatalog",
+        name: "Domestic Corporate and MSME Consulting Services",
+        itemListElement: [
+          { "@type": "Offer", itemOffered: { "@type": "Service", name: "MSME and Startup Strategy Consulting" } },
+          { "@type": "Offer", itemOffered: { "@type": "Service", name: "Corporate Compliance, Taxation and Governance" } },
+          { "@type": "Offer", itemOffered: { "@type": "Service", name: "Financial Analysis, DuPont Modeling and iXBRL" } },
+        ],
+      },
+    },
+    {
+      "@type": ["ProfessionalService", "Organization"],
+      "@id": "https://www.big1global.com/#big1gc",
+      name: "BIG1GC (Big1 Global Consulting)",
+      parentOrganization: { "@id": "https://www.big1global.com/#organization" },
+      url: "https://www.big1global.com/big1gc",
+      description:
+        "Global consulting firm serving international businesses, overseas founders, and multinational corporations with cross-border strategy, global financial engineering, AI workflow automation, and market expansion.",
+      areaServed: "Global",
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.big1global.com/#website",
+      url: "https://www.big1global.com",
+      name: "BIG1 Global",
+      publisher: { "@id": "https://www.big1global.com/#organization" },
+    },
+  ],
+};

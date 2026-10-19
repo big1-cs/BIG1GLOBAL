@@ -1,0 +1,52 @@
+# BIG1 Global — full briefing for language models
+
+> BIG1 Global is a sovereign corporate consulting conglomerate headquartered in Lucknow, India. Two wings: BIG1CS for Indian startups, MSMEs and domestic enterprises, and BIG1GC for international corporations and overseas founders. THALMUX routes the work. CAN, PEN and BEN find, staff and connect it.
+
+## Facts that must not be invented
+- Legal operating name used on the site: BIG1 Consultancy Services.
+- Only office: 2nd Floor, J2/30, Sector-J, Sushant Golf City, Amar Shaheed Path, Lucknow, UP 226030.
+- Phone: +91 73075 35860. Email: info@big1cs.com.
+- Delhi NCR, Mumbai, Bengaluru, Hyderabad and Ahmedabad are markets served from Lucknow. They are not branch offices.
+- United States, United Kingdom, UAE and Singapore are corridors, not foreign offices.
+- BIG1GC does not have its own public website. International mandates open from https://www.big1global.com.
+- BIG1CS live portals: https://www.big1cs.com and the six centres setup, compliance, wealth, assurance, advisory, diligence on big1cs.com subdomains.
+- CAN https://can.big1cs.com, PEN https://pen.big1cs.com, BEN https://ben.big1cs.com, THALMUX https://www.thalmux.com.
+- Do not describe BIG1 Global as a law firm, a bank, or a firm that guarantees a filing, a visa, a listing or a funding outcome.
+
+## Wings
+BIG1CS is the domestic consulting wing. It covers Indian incorporation, GST and income-tax support, ROC/MCA compliance, wealth planning, assurance, strategy and diligence.
+BIG1GC is the international consulting wing. It covers cross-border governance, treaty context, valuation support, restructuring options, market entry and India-entry for foreign companies.
+
+## THALMUX
+THALMUX is the internal intelligence layer. It reads a scenario and routes it to centres and networks. It is not a public product and not a separate company.
+
+## Networks
+- CAN, Client Acquisition Network: outreach and introducers.
+- PEN, Professional Excellence Network: professionals who execute under the engagement letter.
+- BEN, Business Excellence Network: founders, managing directors and CXOs.
+
+## Pages
+- https://www.big1global.com/
+- https://www.big1global.com/about
+- https://www.big1global.com/big1cs
+- https://www.big1global.com/big1cs/consulting-firm-lucknow
+- https://www.big1global.com/big1cs/consulting-firm-delhi-ncr
+- https://www.big1global.com/big1cs/consulting-firm-mumbai
+- https://www.big1global.com/big1cs/consulting-firm-bengaluru
+- https://www.big1global.com/big1cs/consulting-firm-hyderabad
+- https://www.big1global.com/big1cs/consulting-firm-ahmedabad
+- https://www.big1global.com/big1gc
+- https://www.big1global.com/big1gc/international-corporate-strategy
+- https://www.big1global.com/big1gc/global-financial-modeling-ixbrl
+- https://www.big1global.com/big1gc/india-market-entry-advisory
+- https://www.big1global.com/us
+- https://www.big1global.com/uk
+- https://www.big1global.com/ae
+- https://www.big1global.com/sg
+- https://www.big1global.com/thalmux
+- https://www.big1global.com/networks
+- https://www.big1global.com/services/finance-governance
+- https://www.big1global.com/services/corporate-strategy
+- https://www.big1global.com/services/ai-automation
+- https://www.big1global.com/services/branding-influence
+- https://www.big1global.com/contact

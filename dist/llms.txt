@@ -1,0 +1,22 @@
+# BIG1 Global
+
+> BIG1 Global is a sovereign corporate consulting conglomerate and multi-layered enterprise ecosystem headquartered in India with a global operational footprint. It operates through two flagship consulting wings—BIG1CS (Big1 Consultancy Services) for Indian startups, MSMEs, and large domestic enterprises, and BIG1GC (Big1 Global Consulting) for international corporations and overseas founders—unified by the proprietary THALMUX intelligence engine and executed via the CAN, PEN, and BEN networks.
+
+BIG1 Global democratizes institutional-grade corporate strategy, financial engineering (DuPont modeling, ratio analysis, iXBRL standardization), regulatory compliance, AI workflow automation, and industrial scaling across India and global markets.
+
+## Core Ecosystem Entities
+- [BIG1 Global Homepage](https://www.big1global.com/): Overview of the sovereign enterprise ecosystem, dual consulting wings, and global mandate.
+- [About BIG1 Global](https://www.big1global.com/about): Full corporate architecture covering BIG1CS, BIG1GC, THALMUX OS, and the CAN, PEN, and BEN networks.
+- [BIG1CS — Domestic Indian Consulting Wing](https://www.big1global.com/big1cs): Corporate advisory, statutory compliance, taxation, financial modeling, and scaling for Indian startups, MSMEs, and large enterprises. Also at https://www.big1cs.com.
+- [BIG1GC — International Global Consulting Wing](https://www.big1global.com/big1gc): Cross-border strategy, international structuring, global financial advisory, offshore execution, and India-entry consulting for foreign businesses.
+- [THALMUX Intelligence Engine](https://www.big1global.com/thalmux): Proprietary central intelligence layer coordinating Centres of Excellence and mandate routing.
+- [Tri-Network Flywheel (CAN, PEN, BEN)](https://www.big1global.com/networks): Client Acquisition Network, Professional Excellence Network, and Business Excellence Network.
+
+## Primary Consulting Practices
+- [Strategic Finance & Corporate Governance](https://www.big1global.com/services/finance-governance): DuPont analysis, cash flow modeling, iXBRL standardization, valuation context, and statutory compliance.
+- [Global & Domestic Corporate Advisory](https://www.big1global.com/services/corporate-strategy): Market entry, MSME scaling, and cross-border operating strategy.
+- [Enterprise AI & Workflow Automation](https://www.big1global.com/services/ai-automation): Workflow automation and THALMUX routing inside an agreed mandate.
+- [Corporate Branding & Market Influence](https://www.big1global.com/services/branding-influence): Brand position beside the legal and financial structure.
+
+## Contact & Headquarters
+- [Contact](https://www.big1global.com/contact): 2nd Floor, J2/30, Sector-J, Sushant Golf City, Amar Shaheed Path, Lucknow, UP 226030. +91 73075 35860. info@big1cs.com. One office. Other cities are served from Lucknow.
