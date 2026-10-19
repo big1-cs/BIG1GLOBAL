@@ -773,7 +773,7 @@ var company = {
 	],
 	jurisdictions: "180+",
 	centresTotal: 21,
-	footnote: "Figures are illustrative; scope and availability are confirmed per engagement.",
+	footnote: "",
 	socials: [
 		{
 			id: "linkedin",

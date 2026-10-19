@@ -21,7 +21,7 @@ export const company = {
   jurisdictions: "180+",
   centresTotal: 21,
   footnote:
-    "Figures are illustrative; scope and availability are confirmed per engagement.",
+    "",
   socials: [
     {
       id: "linkedin",
